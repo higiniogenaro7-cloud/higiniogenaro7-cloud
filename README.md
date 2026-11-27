@@ -8,8 +8,12 @@
 ![Ubicación](https://img.shields.io/badge/GitHub-higiniogenaro7--cloud-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Estado](https://img.shields.io/badge/Estado-Abierto%20a%20colaborar-ff69b4?style=for-the-badge)
 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
@@ -31,7 +35,17 @@ el mundo **.NET**, con **Docker** como herramienta de viaje y **Git/GitHub** com
 
 ---
 
-## 🛠️ Mi arsenal (lo que domino)
+## 🛠️ Skills
+
+### 🎨 Frontend
+
+| Tecnología | Cómo la uso | Superpoder |
+| :--- | :--- | :--- |
+| 🟠 **HTML5** | Estructura semántica de interfaces y vistas. | Que el contenido tenga sentido antes del CSS. |
+| 🔵 **CSS3** | Layouts responsive, componentes y estilos limpios. | De `flex`/`grid` a una interfaz que respira. |
+| 🟡 **JavaScript** | Interactividad, validaciones y consumo de APIs. | Darle vida a la página sin perder el control. |
+
+### ⚙️ Backend
 
 | Tecnología | Cómo la uso | Superpoder |
 | :--- | :--- | :--- |
@@ -39,6 +53,19 @@ el mundo **.NET**, con **Docker** como herramienta de viaje y **Git/GitHub** com
 | 🐘 **PHP** | Desarrollo web, scripts, APIs y base sólida para Laravel. | Del `<?php` al endpoint sin fricción. |
 | 🔴 **Laravel** | APIs REST, autenticación, Eloquent, colas y vistas Blade. | Del schema al endpoint en tiempo récord. |
 | 🟣 **C# / .NET** | Aplicaciones tipadas, servicios y arquitecturas orientadas a objetos. | Tipado fuerte + LINQ = claridad. |
+
+### 🗄️ Bases de datos
+
+| Tecnología | Cómo la uso | Superpoder |
+| :--- | :--- | :--- |
+| 🐬 **MySQL** | Modelado de datos, consultas, índices y migraciones. | Consultas rápidas y esquemas que no dan dolor de cabeza. |
+| 🐘 **PostgreSQL** | Consultas avanzadas e integridad referencial. | Cuando el problema crece, la BD crece contigo. |
+| 🪶 **SQLite** | Pruebas, prototipos y aplicaciones ligeras. | Base de datos lista en un archivo, sin configurar nada. |
+
+### 🚀 Herramientas
+
+| Tecnología | Cómo la uso | Superpoder |
+| :--- | :--- | :--- |
 | 🐳 **Docker** | Entornos reproducibles, imágenes ligeras, `docker compose` para todo. | _"Funciona en mi máquina"_ → funciona en todas. |
 | 🌿 **Git** | Ramas, merges, rebase, convenciones de commits y resolución de conflictos. | Historial legible incluso a las 3 a.m. |
 | ⚫ **GitHub** | Repos, Pull Requests, Issues, Actions y colaboración abierta. | De la idea a la revisión, en equipo. |
@@ -48,10 +75,23 @@ el mundo **.NET**, con **Docker** como herramienta de viaje y **Git/GitHub** com
 ## 📊 Mapa de habilidades
 
 ```text
+FRONTEND
+HTML5       ███████████████████░░░  85%
+CSS3        ██████████████████░░░░  80%
+JavaScript  ██████████████████░░░░  80%
+
+BACKEND
 Java        ████████████████████░░  90%
 PHP         ██████████████████░░░░  80%
 Laravel     ███████████████████░░░  85%
 C# / .NET   ██████████████████░░░░  80%
+
+BASE DE DATOS
+MySQL       ███████████████████░░░  85%
+PostgreSQL  █████████████████░░░░░  78%
+SQLite      ████████████████░░░░░░  75%
+
+HERRAMIENTAS
 Docker      █████████████████░░░░░  78%
 Git         ███████████████████░░░  88%
 GitHub      ███████████████████░░░  88%
