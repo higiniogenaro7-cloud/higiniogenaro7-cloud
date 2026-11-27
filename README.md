@@ -27,7 +27,7 @@ buenos commits y las ideas que pasan de la cabeza al contenedor sin perder el se
 Me muevo entre el ecosistema **PHP** (con **Laravel** como mi framework favorito),
 el mundo **.NET**, con **Docker** como herramienta de viaje y **Git/GitHub** como diario de cada viaje.
 
-> Mi filosofía: _si no está versionado, no existe; si no está containerizado, no viaja._
+> Mi filosofía: _el backend es el silencio que hace que todo lo demás suene bien: contratos claros, datos íntegros, latencia baja y cero sorpresas en producción._
 
 ---
 
