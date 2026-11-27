@@ -22,9 +22,9 @@
 
 ## 🧬 Quién soy
 
-Soy **Higinio**, desarrollador de software con una debilidad por el código limpio, los
+Soy **Genaro Segura**, desarrollador de software con una debilidad por el código limpio, los
 buenos commits y las ideas que pasan de la cabeza al contenedor sin perder el sentido.
-Me muevo entre el ecosistema **JVM**, **PHP** (con **Laravel** como mi framework favorito),
+Me muevo entre el ecosistema **PHP** (con **Laravel** como mi framework favorito),
 el mundo **.NET**, con **Docker** como herramienta de viaje y **Git/GitHub** como diario de cada viaje.
 
 > Mi filosofía: _si no está versionado, no existe; si no está containerizado, no viaja._
