@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hola, soy Higinio
+<img src="assets/Perfil-Github.svg" alt="Perfil de Genaro Segura Calvo — NOMBRE / ARCH / TECH" width="820" />
+
+# 👋 Hola, soy Genaro
 
 ### _"Construyo sistemas que compilan, escalan y cuentan una historia."_
 
@@ -8,10 +10,12 @@
 ![Ubicación](https://img.shields.io/badge/GitHub-higiniogenaro7--cloud-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Estado](https://img.shields.io/badge/Estado-Abierto%20a%20colaborar-ff69b4?style=for-the-badge)
 
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Astro](https://img.shields.io/badge/Astro-BC52FE?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![Java](https://img.shields.io/badge/Java%20%2F%20Spring%20Boot-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://spring.io/projects/spring-boot)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
@@ -26,10 +30,11 @@
 
 ## 🧬 Quién soy
 
-Soy **Genaro Segura**, desarrollador de software con una debilidad por el código limpio, los
-buenos commits y las ideas que pasan de la cabeza al contenedor sin perder el sentido.
-Me muevo entre el ecosistema **PHP** (con **Laravel** como mi framework favorito),
-el mundo **.NET**, con **Docker** como herramienta de viaje y **Git/GitHub** como diario de cada viaje.
+Soy **Genaro Segura Calvo**, desarrollador de software con una debilidad por el código limpio,
+los buenos commits y las ideas que pasan de la cabeza al contenedor sin perder el sentido.
+Trabajo con **MVC**, **Clean Architecture**, **microservicios** y **API REST**; me muevo entre
+**PHP/Laravel**, **Java/Spring Boot** y **.NET/C#**, con **React** y **Astro** en el frontend,
+**Docker** como herramienta de viaje y **Git/GitHub** como diario de cada viaje.
 
 > Mi filosofía: _el backend es el silencio que hace que todo lo demás suene bien: contratos claros, datos íntegros, latencia baja y cero sorpresas en producción._
 
@@ -41,6 +46,8 @@ el mundo **.NET**, con **Docker** como herramienta de viaje y **Git/GitHub** com
 
 | Tecnología | Cómo la uso | Superpoder |
 | :--- | :--- | :--- |
+| ⚛️ **React** | Componentes, estado, hooks y consumo de APIs. | Interfaces que escalan tan bien como el backend. |
+| 🌌 **Astro** | Sitios rápidos, content-driven e islas de interactividad. | Páginas que cargan volando y JavaScript solo donde hace falta. |
 | 🟠 **HTML5** | Estructura semántica de interfaces y vistas. | Que el contenido tenga sentido antes del CSS. |
 | 🔵 **CSS3** | Layouts responsive, componentes y estilos limpios. | De `flex`/`grid` a una interfaz que respira. |
 | 🟡 **JavaScript** | Interactividad, validaciones y consumo de APIs. | Darle vida a la página sin perder el control. |
@@ -49,7 +56,7 @@ el mundo **.NET**, con **Docker** como herramienta de viaje y **Git/GitHub** com
 
 | Tecnología | Cómo la uso | Superpoder |
 | :--- | :--- | :--- |
-| ☕ **Java** | Backend robusto, orientación a objetos, APIs y lógica de negocio. | Escribo código que aguanta años de `production`. |
+| ☕ **Java / Spring Boot** | Backend robusto, APIs REST, microservicios y lógica de negocio. | Escribo código que aguanta años de `production`. |
 | 🐘 **PHP** | Desarrollo web, scripts, APIs y base sólida para Laravel. | Del `<?php` al endpoint sin fricción. |
 | 🔴 **Laravel** | APIs REST, autenticación, Eloquent, colas y vistas Blade. | Del schema al endpoint en tiempo récord. |
 | 🟣 **C# / .NET** | Aplicaciones tipadas, servicios y arquitecturas orientadas a objetos. | Tipado fuerte + LINQ = claridad. |
@@ -76,12 +83,14 @@ el mundo **.NET**, con **Docker** como herramienta de viaje y **Git/GitHub** com
 
 ```text
 FRONTEND
+React       ██████████████████░░░░  80%
+Astro       ███████████████░░░░░░░  70%
 HTML5       ███████████████████░░░  85%
 CSS3        ██████████████████░░░░  80%
 JavaScript  ██████████████████░░░░  80%
 
 BACKEND
-Java        ████████████████████░░  90%
+Java / Spring Boot ████████████████████░░  90%
 PHP         ██████████████████░░░░  80%
 Laravel     ███████████████████░░░  85%
 C# / .NET   ██████████████████░░░░  80%
@@ -113,6 +122,7 @@ git push && gh pr create                # 5. A revisión en GitHub
 
 ## 🎯 Lo que me gusta hacer
 
+- 🏗️ Aplicar **MVC**, **Clean Architecture** y **microservicios** con criterio (sin sobreingeniería).
 - 🧱 Diseñar **APIs** claras y fáciles de consumir.
 - 🧪 Refactorizar hasta que el código _respira_.
 - 📦 Empaquetar aplicaciones con Docker para olvidarme del _"funciona en mi máquina"_.
