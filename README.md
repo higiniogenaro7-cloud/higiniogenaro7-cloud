@@ -2,7 +2,6 @@
 
 <img src="assets/Perfil-Github.svg" alt="Perfil de Genaro Segura Calvo — NOMBRE / ARCH / TECH" width="820" />
 
-# 👋 Hola, soy Genaro
 
 ### _"Construyo sistemas que compilan, escalan y cuentan una historia."_
 
